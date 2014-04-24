@@ -8,6 +8,7 @@
     ],
     "settings":
     {
-        "atomic_save": false
+        "atomic_save": false,
+        "tab_size": 2
     }
 }
